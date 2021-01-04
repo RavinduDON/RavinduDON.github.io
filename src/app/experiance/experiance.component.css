@@ -1,0 +1,13 @@
+.manibtn{
+  margin: 20px;
+}
+.btn{
+  color: white;
+  background-color: #BD5D38;
+  margin-right: 30px;
+  margin-left: 30px;
+}
+.btn:hover{
+  background-color: lightsalmon;
+  color: #495057;
+}
